@@ -37,12 +37,12 @@ export const themes = [
     {
         name: 'solarized', label: _('Solarized'),
         light: { fg: '#586e75', bg: '#fdf6e3', link: '#268bd2' },
-        dark: { fg: '#93a1a1', bg: '#002b36', link: '#268bd2' },
+        dark: { fg: '#858585', bg: '#012933', link: '#268bd2' },
     },
     {
         name: 'gruvbox', label: _('Gruvbox'),
         light: { fg: '#3c3836', bg: '#fbf1c7', link: '#076678' },
-        dark: { fg: '#ebdbb2', bg: '#282828', link: '#83a598' },
+        dark: { fg: '#857a62', bg: '#141414', link: '#83a598' },
     },
     {
         name: 'nord', label: _('Nord'),
